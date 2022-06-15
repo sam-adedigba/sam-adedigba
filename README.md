@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 
-**sam-adedigba/sam-adedigba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on buiding my technical skills and capabilities in Data Science
 - 🌱 I’m currently learning Data Science in the NG 30 Days of Learning
